@@ -18,7 +18,7 @@ lab4-env-vars/
 ├── .env.example        # Version-controlled configuration template
 ├── .gitignore          # Rules ensuring secrets are never committed
 └── README.md           # Project documentation and guide
-
+```
 ---
 
 ## Instructions & Execution Guide
